@@ -226,7 +226,3 @@
     height: var(--img-height) !important;
   }
 
-  *{
-    outline: 2px solid teal;
-  }
-  

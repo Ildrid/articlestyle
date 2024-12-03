@@ -225,3 +225,8 @@
   .article__content img.sw-styled-image, .article__content img.sw-flow-container__image{
     height: var(--img-height) !important;
   }
+
+  *{
+    outline: 2px solid teal;
+  }
+  

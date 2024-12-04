@@ -222,15 +222,14 @@ img.shape--circle {
   position: relative;
   left: 2em;
   padding-right: 1em;
-  width: fit-content;
 }
 
 ul:has(p[style="text-align: center"]) {
   margin: 0 auto;
-  /* background-color: aqua; */
   width: max-content;
   padding: 0 2em 0 0;
 }
+
 
 .article__content img.sw-styled-image,
 .article__content img.sw-flow-container__image {

@@ -202,7 +202,10 @@
   .sw-styled-content p {
     margin: 1em 0;
     max-width: var(--sw-p-max-width, 100%);
-  
+  }
+  .sw-styled-content li p {
+    margin: 4px 0;
+    max-width: var(--sw-p-max-width, 100%);
   }
   
   .sw-styled-content h1 {

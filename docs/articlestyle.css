@@ -240,7 +240,7 @@ img.shape--circle {
   position: relative;
   left: 2em;
   padding-right: 1em;
-  width: fit-content;
+  /* width: fit-content; */
 }
 
 ul:has(p[style="text-align: center"]) {

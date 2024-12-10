@@ -333,6 +333,9 @@ ul:has(p[style="text-align: center"]) {
     var(--sw-responsive-table-tr-border-bottom-color, #ddd);
 }
 
+.sw-responsive-table__wrapper tbody tr:hover{
+  background-image: linear-gradient(#bbbbbb20, #bbbbbb20);
+}
 
 /* media queries - større skjerm */
 @media screen and (min-width: 600px) {

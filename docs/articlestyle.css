@@ -310,6 +310,7 @@ ul:has(p[style="text-align: center"]) {
   min-height: var(--sw-responsive-table-td-min-height, 20px);
   padding: var(--sw-responsive-table-td-padding, 8px 16px);
   text-align: var(--sw-responsive-table-tbody-text-align, left);
+  max-width: 400px;
 }
 
 .sw-responsive-table__wrapper.tablestyle--grid table {
